@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-section {
+  padding: 10px;
+  background-color: #f4f4f4;
+}
+
+.main-paras {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 5rem;
+}
+
+.App-para {
+  font-size: 1.5em;
+  margin-left: 2rem;
+  margin-right: 2rem;
+}
+
+.App-footer {
+  background-color: #282c34;
+  color: white;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
