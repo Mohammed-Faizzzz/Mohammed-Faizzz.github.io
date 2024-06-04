@@ -1,0 +1,44 @@
+.banner {
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: start;
+    justify-content: space-between; /* Ensure proper spacing between items */
+    width: 90vw;
+    box-sizing: border-box;
+    height: 13vh;
+    border-radius: 2rem;
+    background-color: #001f3f;
+    color: white;
+    margin: 2rem auto;
+    padding: 0 1rem; /* Add padding for spacing */
+    height: auto;
+    margin-left: 2rem;
+  }
+  
+  .logo-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo {
+    height: 10vh;
+    pointer-events: none;
+    border-radius: 1rem;
+  }
+  
+  .drawer-content {
+    display: flex;
+    align-items: center;
+    flex-grow: 1; /* Allow drawer content to grow */
+    justify-content: center;
+  }
+  
+  .drawer-list {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around; /* Space out list items */
+  }
+  
