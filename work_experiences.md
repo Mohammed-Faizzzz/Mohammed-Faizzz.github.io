@@ -1,5 +1,7 @@
 # Work Experiences
 
+[About Me](index.md) | [Work Experiences](work_experiences.md) | [Hobbies and Interests](hobbies_interests.md)
+
 ## Curium [Jan '24 - May '24]
 
 I interned as a Software Engineer Intern at Curium, a deep tech startup based in Singapore. Curium is largely involved in the AI sector, especially in calibrating sensors for autonomous vehicles. Most of my work revolved around building a Digital Twin Dashboard for Curium's clients to view performance metrics of sensors. The tech stack largely involved React.js with Three.js for the Digital Twin canvas. However, I was also allowed to explore other facets of the company that fascinated me. I took responsibility for my code changes, and oversaw its integration into the deployment model via various CI/CD tools such as Docker and Github Workflows. Taking charge of my work and going the extra mile definitely made me a better software engineer who is aware of other concepts such as CI/CD - this is often critical in a startup, where staff have to wear multiple hats. It was also at Curium where my interest in the AI/ML industry as well as the Robotics industry took off. My colleagues were extremely helpful and explained concepts such as ROS and MQTT to help me understand the bigger picture, allowing me to grow instead of limiting me to my scope of work. In order to better develop and hone my skills in these industries, I have taken time off this Summer to focus on various projects that would allow me a better grasp of key concepts.
