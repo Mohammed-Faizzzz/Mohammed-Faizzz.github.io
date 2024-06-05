@@ -1,6 +1,6 @@
 # About Me
 
-![My Pic](pic.jpg)
+<!-- ![My Pic](pic.jpg) -->
 
 [About Me](index.md) | [Work Experiences](work_experiences.md) | [Personal Projects](personal_projects.md) | [Hobbies and Interests](hobbies_interests.md) 
 
