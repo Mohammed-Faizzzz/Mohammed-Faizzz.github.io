@@ -1,6 +1,6 @@
 # Work Experiences
 
-[About Me](index.md) | [Work Experiences](work_experiences.md) | [Hobbies and Interests](hobbies_interests.md)
+[About Me](index.md) | [Work Experiences](work_experiences.md) | [Personal Projects](personal_projects.md) | [Hobbies and Interests](hobbies_interests.md) 
 
 ## Curium [Jan '24 - May '24]
 
