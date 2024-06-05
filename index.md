@@ -1,6 +1,6 @@
 # About Me
 
-![My Picture](path/to/your-picture.jpg)
+![My Picture](pic.jpg)
 
 [About Me](index.md) | [Work Experiences](work_experiences.md) | [Hobbies and Interests](hobbies_interests.md)
 

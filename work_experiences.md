@@ -6,7 +6,7 @@
 
 I interned as a Software Engineer Intern at Curium, a deep tech startup based in Singapore. Curium is largely involved in the AI sector, especially in calibrating sensors for autonomous vehicles. Most of my work revolved around building a Digital Twin Dashboard for Curium's clients to view performance metrics of sensors. The tech stack largely involved React.js with Three.js for the Digital Twin canvas. However, I was also allowed to explore other facets of the company that fascinated me. I took responsibility for my code changes, and oversaw its integration into the deployment model via various CI/CD tools such as Docker and Github Workflows. Taking charge of my work and going the extra mile definitely made me a better software engineer who is aware of other concepts such as CI/CD - this is often critical in a startup, where staff have to wear multiple hats. It was also at Curium where my interest in the AI/ML industry as well as the Robotics industry took off. My colleagues were extremely helpful and explained concepts such as ROS and MQTT to help me understand the bigger picture, allowing me to grow instead of limiting me to my scope of work. In order to better develop and hone my skills in these industries, I have taken time off this Summer to focus on various projects that would allow me a better grasp of key concepts.
 
-[Download CEO's testimonial](path/to/Recommendation.pdf)
+[Download CEO's testimonial](Recommendation.pdf)
 
 ---
 
@@ -22,4 +22,4 @@ I had the opportunity to work with Karla Bionics in Indonesia thanks to the NUS 
 
 As part of my National Service, I served as a Police Officer in the Singapore Police Force (SPF). My role was to ensure the safety and security of Singaporeans by patrolling the streets and responding to emergency calls. I was also involved in community policing efforts, such as conducting crime prevention talks and engaging with residents to address their concerns. I found this experience to be extremely rewarding as it allowed me to make a positive impact on the community. I was also able to develop valuable skills such as teamwork, leadership and problem-solving, having had to deal with high stakes situations with my colleagues. I also honed my communication skills by interacting with people from diverse backgrounds. This experience taught me the importance of adaptability and resilience, as I had to quickly respond to changing situations and work under pressure. It also instilled in me a sense of responsibility and discipline that I carry with me to this day.
 
-[Download Testimonial](path/to/NS-SPF-Testimonial.pdf)
+[Download Supervisor's Testimonial](NS-SPF-Testimonial.pdf)
